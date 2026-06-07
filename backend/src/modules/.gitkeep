@@ -1,0 +1,6 @@
+# This directory will contain feature modules
+# Each module should include:
+# - controllers/
+# - services/
+# - entities/
+# - dto/

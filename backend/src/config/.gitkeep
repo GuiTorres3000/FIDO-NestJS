@@ -1,0 +1,4 @@
+# This directory will contain configuration files
+# - database.config.ts
+# - jwt.config.ts
+# - app.config.ts
